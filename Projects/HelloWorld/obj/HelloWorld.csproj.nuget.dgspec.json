@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Arshdeep Singh Saini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\Arshdeep Singh Saini\\Documents\\VSCode\\Projects\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arshdeep Singh Saini\\AppData\\Roaming\\NuGet\\NuGet.Config",
